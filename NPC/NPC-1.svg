@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="NPC-1.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <defs
+     id="defs2">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3748">
+      <rect
+         style="fill:#ffffce;fill-opacity:1;stroke-width:0.26458332"
+         id="rect3750"
+         width="135.46666"
+         height="67.73333"
+         x="36.588097"
+         y="99.091675" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="341.63761"
+     inkscape:cy="543.86167"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer2"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Original"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline">
+    <image
+       y="99.091675"
+       x="36.588097"
+       id="image3721"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAQCAYAAAB3AH1ZAAAAGHRFWHRUaXRsZQBEb2xwaGluIFNj
+cmVlbnNob3SqDw0UAAABYElEQVRIibWVIXiCQBiGX/YQjNJGJBK9SFxkTZvVNavNi0aitlnXsEk0
+XqQSiUaMtFuY24PC4bm5L8E93/3fy//cfzjD0VJjoTASLGKfcTzo9e2ymiQ7UqjcpiwuQBV9GA2H
+vESK1CocOHt8EgSrfMKLCIxeT0156guOSDhJhVoHVuFNCLUOOElFRMIhL41etytYipRoMmARencF
+d4GATxbskWXd2ZELgHvbbQsxjn12WY0kbUG4zeBHfHUfyHU3AJzhaKltT/ij1JwU1yZ8sy3IsgMA
+cfzCfBb+ydecFEfrvPce2GwLAOaz6fn9a2R9P0AVFQBR6HE8lp0+E8S3bgK8Tjbs0/eLNU9Iwkhc
+rBUqp8pXV3vf2KfzXgDjPdAidQSOIx7mswZQ5bN1sd/ste7Af6kXYJfVP89a52h9+wdz7WvW6FLr
+Ku6SJ6SNzdpnDaCKqnXaTTL5VFExjn3jvk9v6aQtt2Pg2AAAAABJRU5ErkJggg==
+"
+       preserveAspectRatio="none"
+       height="67.73333"
+       width="135.46666"
+       style="fill:#ff6b21;fill-opacity:1" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Transition"
+     style="display:none" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Final"
+     style="display:inline">
+    <g
+       id="g4669"
+       inkscape:export-filename="C:\Users\Clovis\Desktop\Textures\Final\PNJ\path3786.png"
+       inkscape:export-xdpi="23.800751"
+       inkscape:export-ydpi="23.800751">
+      <rect
+         y="99.091675"
+         x="36.588097"
+         height="67.73333"
+         width="135.46666"
+         id="rect3730"
+         style="fill:#ffffce;fill-opacity:1;stroke-width:0.26458332" />
+      <ellipse
+         clip-path="url(#clipPath3748)"
+         style="display:inline;fill:#396bad;fill-opacity:1;stroke-width:0.29005802"
+         ry="29.387648"
+         rx="37.136162"
+         cy="161.21205"
+         cx="104.79391"
+         id="path3724-8"
+         transform="translate(0,-7.6293945e-6)" />
+    </g>
+    <path
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#223d78;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 313.21484,486.25586 a 39.642856,25.191767 0 0 0 -39.64257,25.19141 v 94.28711 h 79.28515 v -94.28711 a 39.642856,25.191767 0 0 0 -39.64258,-25.19141 z"
+       transform="scale(0.26458333)"
+       id="path3776"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Clovis\Desktop\Textures\Final\PNJ\path3786.png"
+       inkscape:export-xdpi="23.800751"
+       inkscape:export-ydpi="23.800751" />
+    <ellipse
+       style="display:inline;fill:#000031;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-opacity:1"
+       id="path3786"
+       cx="82.840248"
+       cy="146.68163"
+       rx="5.2444196"
+       ry="7.961123"
+       inkscape:export-filename="C:\Users\Clovis\Desktop\Textures\Final\PNJ\path3786.png"
+       inkscape:export-xdpi="23.800751"
+       inkscape:export-ydpi="23.800751" />
+    <path
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#223d78;stroke-width:0.79374999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 125.54986,128.58309 a 10.488839,6.6653217 0 0 0 -10.48876,6.66523 v 24.94679 h 20.97753 v -24.94679 a 10.488839,6.6653217 0 0 0 -10.48877,-6.66523 z"
+       id="path3776-8"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Clovis\Desktop\Textures\Final\PNJ\path3786.png"
+       inkscape:export-xdpi="23.800751"
+       inkscape:export-ydpi="23.800751" />
+    <ellipse
+       style="display:inline;fill:#000031;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-opacity:1"
+       id="path3786-0"
+       cx="125.51867"
+       cy="146.34225"
+       rx="5.2444196"
+       ry="7.9611235"
+       inkscape:export-filename="C:\Users\Clovis\Desktop\Textures\Final\PNJ\path3786.png"
+       inkscape:export-xdpi="23.800751"
+       inkscape:export-ydpi="23.800751" />
+    <path
+       style="display:inline;opacity:1;fill:#ff6b21;fill-opacity:1;stroke:#10317a;stroke-width:1.10008073;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 36.554086,99.086167 V 132.54427 L 74.880939,99.086167 Z"
+       id="rect4752"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Clovis\Desktop\Textures\Final\PNJ\path3786.png"
+       inkscape:export-xdpi="23.800751"
+       inkscape:export-ydpi="23.800751" />
+    <path
+       style="display:inline;opacity:1;fill:#ff6b21;fill-opacity:1;stroke:#10317a;stroke-width:1.10008073;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 172.05475,99.091667 V 132.54977 L 133.7279,99.091667 Z"
+       id="rect4752-2"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Clovis\Desktop\Textures\Final\PNJ\path3786.png"
+       inkscape:export-xdpi="23.800751"
+       inkscape:export-ydpi="23.800751" />
+  </g>
+</svg>

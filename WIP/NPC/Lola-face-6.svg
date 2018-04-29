@@ -30,10 +30,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.979899"
-     inkscape:cx="357.34592"
+     inkscape:cx="278.30148"
      inkscape:cy="618.02505"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="g1063-3"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1057"
@@ -48,7 +48,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -84,7 +84,6 @@
     <g
        id="g991"
        transform="translate(5.2991352e-5)"
-       style=""
        inkscape:export-xdpi="15.571323"
        inkscape:export-ydpi="15.571323">
       <rect
@@ -108,7 +107,6 @@
     <g
        id="g1040"
        transform="translate(-0.48877021)"
-       style=""
        inkscape:export-xdpi="15.571323"
        inkscape:export-ydpi="15.571323">
       <g
@@ -116,9 +114,10 @@
          id="g1006">
         <path
            style="opacity:1;fill:#f7f9fb;fill-opacity:1;stroke-width:1.09634292"
-           d="M 278.26172 475.13281 A 59.346461 74.064412 0 0 0 251.70117 536.8125 A 59.346461 74.064412 0 0 0 311.04688 610.87695 A 59.346461 74.064412 0 0 0 369.67188 547.72656 L 278.26172 475.13281 z "
+           d="m 278.26172,475.13281 a 59.346461,74.064412 0 0 0 -26.56055,61.67969 59.346461,74.064412 0 0 0 59.34571,74.06445 59.346461,74.064412 0 0 0 58.625,-63.15039 z"
            transform="matrix(0.26458333,0,0,0.21471225,0.48876882,30.465122)"
-           id="path993" />
+           id="path993"
+           inkscape:connector-curvature="0" />
         <ellipse
            style="opacity:1;fill:#212121;fill-opacity:1;stroke-width:0.18255143"
            id="path997"
@@ -145,7 +144,6 @@
        inkscape:export-ydpi="15.571323" />
     <g
        id="g1063"
-       style=""
        inkscape:export-xdpi="15.571323"
        inkscape:export-ydpi="15.571323">
       <rect
@@ -165,7 +163,7 @@
     </g>
     <g
        transform="translate(111.41517,-0.09449803)"
-       style="display:inline;opacity:0.328"
+       style="display:inline;opacity:1"
        id="g1063-3"
        inkscape:export-xdpi="15.571323"
        inkscape:export-ydpi="15.571323">
